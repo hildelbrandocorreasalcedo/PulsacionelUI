@@ -12,11 +12,11 @@ using Entity;
 
 namespace PulsacioneslUI
 {
-    public partial class FrmClientes : Form
+    public partial class FrmPulsacioneslUI : Form
     {
         PersonaService servicio = new PersonaService();
 
-        public FrmClientes()
+        public FrmPulsacioneslUI()
         {
             InitializeComponent();
         }

@@ -1,6 +1,6 @@
 ﻿namespace PulsacioneslUI
 {
-    partial class FrmClientes
+    partial class FrmPulsacioneslUI
     {
         /// <summary>
         /// Variable del diseñador necesaria.
